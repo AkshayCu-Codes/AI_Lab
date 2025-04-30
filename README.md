@@ -17,6 +17,7 @@ The Applied AI Lab is a project-based program focused on solving real-world comp
 5. **Medical Imaging (Spain)** – Generating synthetic medical images  
 6. **Social Media Analytics (USA)** – Computer vision for marketing insights
 
+
 ---
 
 ## 🧠 What I’m Learning
@@ -38,7 +39,7 @@ The following instructors guide us through the code-along videos in this course:
 - **Richard Ott** – From particle physics to data science
 - **Robert Schroll** – Background in physics and visualization
 
-Each brings unique experience and a passion for teaching data science.
+> *Credit to WorldQuant University for providing these exceptional instructors and resources.*
 
 ---
 
