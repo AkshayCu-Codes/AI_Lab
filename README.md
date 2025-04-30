@@ -29,6 +29,19 @@ The Applied AI Lab is a project-based program focused on solving real-world comp
 
 ---
 
+# 👨‍🏫 Meet the Instructors – Applied AI Lab
+
+The following instructors guide us through the code-along videos in this course:
+
+- **Ana Hocevar** – PhD in Physics, expert in coding and teaching
+- **Don Fox** – Chemical engineering background, renewable energy researcher
+- **Richard Ott** – From particle physics to data science
+- **Robert Schroll** – Background in physics and visualization
+
+Each brings unique experience and a passion for teaching data science.
+
+---
+
 ## 📁 Reflections by Module
 
 | Module | Topic                                     | Status     |
